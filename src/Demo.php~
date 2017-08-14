@@ -1,6 +1,6 @@
 <?php
 namespace Demo;
 
-class Main{
+class Demo{
 	
 }
